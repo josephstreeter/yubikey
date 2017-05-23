@@ -1,0 +1,11 @@
+.\yubico-piv-tool -a verify-pin -P 4711
+.\yubico-piv-tool -a verify-pin -P 4711
+.\yubico-piv-tool -a verify-pin -P 4711
+.\yubico-piv-tool -a verify-pin -P 4711
+.\yubico-piv-tool -a change-puk -P 4711 -N 67567
+.\yubico-piv-tool -a change-puk -P 4711 -N 67567
+.\yubico-piv-tool -a change-puk -P 4711 -N 67567
+.\yubico-piv-tool -a change-puk -P 4711 -N 67567
+.\yubico-piv-tool -a reset
+
+679ECA8FFD5AFCE9B9CFD2EA896F252FB238ECAD82093C23
